@@ -1,0 +1,6 @@
+/home/ubuntu/dev/tinydb/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/tinydb/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev/tinydb/build/src/CMakeFiles/server.dir
+/home/ubuntu/dev/tinydb/build/src/CMakeFiles/client.dir
+/home/ubuntu/dev/tinydb/build/src/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/tinydb/build/src/CMakeFiles/rebuild_cache.dir
